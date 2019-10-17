@@ -63,7 +63,7 @@ class LinkedList:
 
 if __name__ in "__main__":
 
-    print('create initial linked list')
+    print('Create Initial Linked List')
     lst = LinkedList()
 
     for i in [1, 7, 2, 3, -10]:
